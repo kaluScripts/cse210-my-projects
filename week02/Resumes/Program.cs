@@ -1,16 +1,9 @@
 using System;
 
-public class Entry
+class Program
 {
-    public string _date;
-    public string _promptText;
-    public string _entryText;
-
-    public void Display()
+    static void Main(string[] args)
     {
-        Console.WriteLine($"Date: {_date}");
-        Console.WriteLine($"Prompt: {_promptText}");
-        Console.WriteLine($"Entry: {_entryText}");
-        Console.WriteLine();
+        Console.WriteLine("Hello World! This is the Resumes Project.");
     }
 }
