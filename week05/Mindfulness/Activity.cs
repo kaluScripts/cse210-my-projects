@@ -1,6 +1,6 @@
 // Activity.cs
 // Base class for all mindfulness activities.
-// Contains shared attributes and behaviors to avoid code duplication (DRY principle).
+// Contains shared attributes and behaviours to avoid code duplication (DRY principle).
 
 using System;
 using System.Threading;
